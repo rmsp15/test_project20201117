@@ -6,9 +6,11 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	Hello Git!  
 </h1>
-
+<h1>
+	Hello project!  
+</h1>
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
